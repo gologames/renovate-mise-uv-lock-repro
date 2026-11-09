@@ -1,0 +1,10 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "enabledManagers": ["mise"],
+  "packageRules": [
+    {
+      "matchDepNames": ["pipx:ansible-lint"],
+      "allowedVersions": "<=26.11.0"
+    }
+  ]
+}
