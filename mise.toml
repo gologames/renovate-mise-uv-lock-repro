@@ -1,2 +1,2 @@
 [tools]
-"pipx:ansible-lint" = { version = "26.10.1", python = "3.14" }
+"pipx:ansible-lint" = { version = "26.11.0", python = "3.14" }
