@@ -3,10 +3,10 @@
 lockfile_version = 4
 
 [[tools."pipx:ansible-lint"]]
-version = "26.10.1"
+version = "26.11.0"
 backend = "pipx:ansible-lint"
-specifiers = ["26.10.1"]
-uv = { path = ".mise/locks/pipx-ansible-lint/26.10.1~6f6e978c", digest = "sha256:1f49c6665945d1c874ebbe01871090ef7c987df4658323dae1a734337be5a4ca" }
+specifiers = ["26.11.0"]
+uv = { path = ".mise/locks/pipx-ansible-lint/26.11.0~6f6e978c", digest = "sha256:b464dff7c9f048b6afea815a5580f9cac62efb3775b4caedabfdba096efa8c6a" }
 
 [tools."pipx:ansible-lint".options]
 python = "3.14"
